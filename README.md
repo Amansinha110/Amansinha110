@@ -1,4 +1,4 @@
-![logo](https://github.com/Amansinha110/Amansinha110/blob/master/photo_2025-01-13_22-25-30.jpg)
+![logo](https://github.com/Amansinha110/Amansinha110/blob/master/TECH.gif)
 <h1 align="center">Hi 👋, I'm Aman Sinha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
