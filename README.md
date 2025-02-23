@@ -19,7 +19,7 @@
 <a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/insta%20design.png" alt="satyamsinha110" height="120" width="120" /> </a>
 <a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/fb%20design.png" alt="satyamsinha110" height="120" width="120" /></a>
 <a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/LEET%20CODE%20%203.png" height="160" width="160" /></a>
-<a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/link%20dine.png" height="160" width="160" /></a>
+<a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/linkdin.png" height="160" width="160" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
