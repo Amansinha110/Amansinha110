@@ -16,7 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/satyamsinha110" target="blank"><img align="center" src="https://github.com/Amansinha110/Amansinha110/blob/master/insta%20design.png" alt="satyamsinha110" height="100" width="100" /></a>
+<a href="https://instagram.com/satyamsinha110" target="blank"><img align="center" src="https://github.com/Amansinha110/Amansinha110/blob/master/insta%20design.png" alt="satyamsinha110" height="120" width="120" /></a>
+</p>
+
+<a href="https://instagram.com/satyamsinha110" target="blank"><img align="center" src="https://github.com/Amansinha110/Amansinha110/blob/master/fb%20design.png" alt="satyamsinha110" height="120" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
