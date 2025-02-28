@@ -31,4 +31,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansinha110&" alt="amansinha110" /></p>
 
 <p align="left">
-<a href="https://satyamsinhaa779.wixsite.com/my-site" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/Click%20Here.png" alt="satyamsinha110" height="120" width="120" /> </a>
+<a href="https://satyamsinhaa779.wixsite.com/my-site" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/Click%20Here.png" alt="satyamsinha110" height="220" width="220" /> </a>
+<a href="https://67c1694e85a9f.site123.me/" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/E-commerce%20Workshop.png" alt="satyamsinha110" height="220" width="220" /> </a>
+</p>
