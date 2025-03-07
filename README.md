@@ -33,5 +33,5 @@
 <p align="left">
 <a href="https://satyamsinhaa779.wixsite.com/my-site" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/Click%20Here.png" alt="satyamsinha110" height="220" width="220" /> </a>
 <a href="https://67c1694e85a9f.site123.me/" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/e%20commerce.png" alt="satyamsinha110" height="220" width="220" /> </a>
-<a href="https://67c1694e85a9f.site123.me/" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/Untitled%20(Instagram%20Profile%20Picture).png" alt="satyamsinha110" height="220" width="220" /> </a>
+<a href="http://67cb3994f1338.site123.me/" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/Untitled%20(Instagram%20Profile%20Picture).png" alt="satyamsinha110" height="220" width="220" /> </a>
 </p>
