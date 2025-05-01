@@ -1,4 +1,6 @@
-![logo](https://github.com/Amansinha110/Amansinha110/blob/master/ak1.png)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/ak1.png"  width=500&height=50></a>
+</div>
 <h1 align="center">Hi 👋, I'm Aman Sinha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
