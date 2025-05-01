@@ -1,5 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/ak1.png"  width=500&height=50></a>
+    <img width=300 src="https://github.com/Amansinha110/Amansinha110/blob/master/ak1.png"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=700&height=60&lines=Greetings%2C+wonder!+I'm+AMANSINHA!" alt="Typing SVG" /></a>
 </div>
 <h1 align="center">Hi 👋, I'm Aman Sinha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
