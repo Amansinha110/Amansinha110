@@ -21,9 +21,9 @@
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/insta%20design.png" alt="satyamsinha110" height="120" width="120" /> </a>
-<a href="https://www.facebook.com/share/15jucCQVnk/" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/fb%20design.png" alt="satyamsinha110" height="120" width="120" /></a>
-<a href="https://www.linkedin.com/in/aman-kumar-035720211" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/linkdin.png" height="160" width="160" /></a>
+<a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/ins.jpeg" alt="satyamsinha110" height="120" width="120" /> </a>
+<a href="https://www.facebook.com/share/15jucCQVnk/" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/fb.png" alt="satyamsinha110" height="120" width="120" /></a>
+<a href="https://www.linkedin.com/in/aman-kumar-035720211" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/link.webp" height="160" width="160" /></a>
 </p>
 </div>
 
@@ -37,7 +37,7 @@ Currently I am engaged in the development of open-source projects and periodical
 
 At the moment I am studying Rust for developing high-performance applications, as well as machine learning and neural networks.
 
-```javascript
+```Code
 const AMAN = {
     OS: ["Arch Linux"],
     languages: {
