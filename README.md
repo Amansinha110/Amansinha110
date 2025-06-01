@@ -21,7 +21,7 @@
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/ins.jpeg" alt="satyamsinha110" height="120" width="120" /> </a>
+<a href="https://instagram.com/satyamsinha110" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/insta.webp" alt="satyamsinha110" height="120" width="120" /> </a>
 <a href="https://www.facebook.com/share/15jucCQVnk/" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/fb.png" alt="satyamsinha110" height="120" width="120" /></a>
 <a href="https://www.linkedin.com/in/aman-kumar-035720211" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/link.webp" height="160" width="160" /></a>
 </p>
