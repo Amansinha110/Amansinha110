@@ -72,6 +72,26 @@ const AMAN = {
 <a href="http://67cb3994f1338.site123.me/" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/Untitled%20(Instagram%20Profile%20Picture).png" alt="satyamsinha110" height="220" width="220" /> </a>
 <a href="https://satyamsinhaa779.wixsite.com/website" target="blank"><img src="https://github.com/Amansinha110/Amansinha110/blob/master/Aman%20Kumar%20HAS%20SUCCESSFULLY%20COMPLETED%20ALL%20TASKS%20OF%20THE%20ASSESSMENT%20AND%20RECEIVED%20PASSING%20GRADES%20TO%20EARN%20THE%20CERTIFICATE%20IN.png" alt="satyamsinha110" height="270" width="250" /> </a>
 </p>
+<div align="left">
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+    <a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a><a href=""><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/prr.png"height="80" width="160"></a>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansinha110&show_icons=true&locale=en&layout=compact" alt="amansinha110" /></p>
 
