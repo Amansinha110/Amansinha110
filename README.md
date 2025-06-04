@@ -28,6 +28,7 @@
 </div>
 
 ## 👻 A little about me...  
+<img src = "https://github.com/Amansinha110/Amansinha110/blob/master/portfoilo.png" align="left" height="120" width="120">
 I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
 
 I actively participate in hackathons and **multiple times became the winner of international competitions** (Below you can see My Achieve certificates). 
