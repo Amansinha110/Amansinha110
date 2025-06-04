@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=300 src="https://github.com/Amansinha110/Amansinha110/blob/master/ak1.png"/>    
+    <img src="https://github.com/Amansinha110/Amansinha110/blob/master/profile2.jpg">    
     <br/>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=700&height=60&lines=Greetings%2C+wonder!+I'm+AMANSINHA!" alt="Typing SVG" /></a>
