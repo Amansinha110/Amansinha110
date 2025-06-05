@@ -65,23 +65,23 @@ const AMAN = {
 ```
 <div>
 <h3 >Languages and Tools:</h3> 
-<p align = "left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/html.png" alt="html5" width="70" height="70"> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/css3.png" alt="css" width="70" height="70">  </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/bootstrap.png" alt="boostrap" width="70" height="70">  </a>
-<<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/javascript.webp" alt="Java-Script" width="70" height="70"> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/react.webp" alt="React" width="70" height="70"> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/gitt.webp" alt="Git" width="70" height="70"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/github.webp" alt="GitHub" width="70" height="70"/>  </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/angular.webp" alt="Angular" width="70" height="70"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/c.png" alt="C" width="70" height="70"/>  </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/c%2B%2B.webp" alt="C++" width="70" height="70"/>  </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/c%23.webp" alt="C#" width="70" height="70"/>  </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/nodejs.webp" alt="Nodejs" width="70" height="70"/>  </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/android.webp" alt="Android" width="70" height="70"/>  </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/flutter.webp" alt="Flutter" width="70" height="70"/>  </a>
-<<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/kotlin.webp" alt="Kotlin" width="70" height="70"/>  </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/mongo-db.png" alt="Mpngo-db" width="70" height="70"/>  </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/mysql.webp" alt="MySql" width="70" height="70"/>  </a>
+<p align = "left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/html.png" alt="html5" width="70" height="70">
+<a href="" target="_blank"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/css3.png" alt="css" width="70" height="70"> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/bootstrap.png" alt="boostrap" width="70" height="70">  </a>
+<<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/javascript.webp" alt="Java-Script" width="70" height="70"> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/react.webp" alt="React" width="70" height="70"> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/gitt.webp" alt="Git" width="70" height="70"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/github.webp" alt="GitHub" width="70" height="70"/>  </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/angular.webp" alt="Angular" width="70" height="70"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/c.png" alt="C" width="70" height="70"/>  </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/c%2B%2B.webp" alt="C++" width="70" height="70"/>  </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/c%23.webp" alt="C#" width="70" height="70"/>  </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/nodejs.webp" alt="Nodejs" width="70" height="70"/>  </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/android.webp" alt="Android" width="70" height="70"/>  </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/flutter.webp" alt="Flutter" width="70" height="70"/>  </a>
+<<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/kotlin.webp" alt="Kotlin" width="70" height="70"/>  </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/mongo-db.png" alt="Mpngo-db" width="70" height="70"/>  </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/mysql.webp" alt="MySql" width="70" height="70"/>  </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/aws.png" alt="Aws" width="70" height="70"/>  </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/Blender-Symbol.png" alt="Blender" width="70" height="70"/>  </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/figma.webp" alt="Figma" width="70" height="70"/>  </a>
