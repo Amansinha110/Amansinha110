@@ -85,8 +85,8 @@ const AMAN = {
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/aws.png" alt="Aws" width="70" height="70"/> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/Blender-Symbol.png" alt="Blender" width="70" height="70"/> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/figma.webp" alt="Figma" width="70" height="70"/> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/photo.png" alt="Photoshop" width="70" height="70"/> </p>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/illustrator.png" alt="illustrator" width="70" height="70"/> </p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/photo.png" alt="Photoshop" width="70" height="70"/>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/illustrator.png" alt="illustrator" width="70" height="70"/>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/canva.webp" alt="Canva" width="70" height="70"/> </p>
 </div>
 
