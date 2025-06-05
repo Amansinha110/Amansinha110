@@ -65,7 +65,7 @@ const AMAN = {
 ```
 <div>
 <h3 >Languages and Tools:</h3> 
-<p> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/html.png" alt="html5" width="70" height="70"/> 
+<p align = "left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/html.png" alt="html5" width="70" height="70"/> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/css3.png" alt="css" width="70" height="70"/> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/bootstrap.png" alt="boostrap" width="70" height="70"/> 
 <<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/javascript.webp" alt="Java-Script" width="70" height="70"/>
@@ -84,8 +84,10 @@ const AMAN = {
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/mysql.webp" alt="MySql" width="70" height="70"/> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/aws.png" alt="Aws" width="70" height="70"/> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/Blender-Symbol.png" alt="Blender" width="70" height="70"/> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="" alt="Kotlin" width="70" height="70"/> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="" alt="Kotlin" width="70" height="70"/> </p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/figma.webp" alt="Figma" width="70" height="70"/> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/photo.png" alt="Photoshop" width="70" height="70"/> </p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/illustrator.png" alt="illustrator" width="70" height="70"/> </p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/canva.webp" alt="Canva" width="70" height="70"/> </p>
 </div>
 
 <div></div>
