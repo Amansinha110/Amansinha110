@@ -69,7 +69,7 @@ const AMAN = {
 
 <h3 align="left">Running Projects Sites:</h3> 
 <div>
-    <a href="https://amansinha110.github.io/Frontend-LIve-Projects-Website/"><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/git.webp"height="200" width="200"></a>
+    <a href="https://amansinha110.github.io/Frontend-LIve-Projects-Website/" target="_blank"><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/git.webp"height="200" width="200"></a>
     
 </div>
 
