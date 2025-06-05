@@ -81,7 +81,7 @@ const AMAN = {
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/flutter.webp" alt="Flutter" width="70" height="70"></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/kotlin.webp" alt="Kotlin" width="70" height="70"></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/mongo-db.png" alt="Mpngo-db" width="70" height="70"></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/mysql.webp" alt="MySql" width="70" height="70></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/mysql.webp" alt="MySql" width="70" height="70"></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/aws.png" alt="Aws" width="70" height="70"></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/Blender-Symbol.png" alt="Blender" width="70" height="70"></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/figma.webp" alt="Figma" width="70" height="70"></a>
