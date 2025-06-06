@@ -96,6 +96,7 @@ const AMAN = {
 <div>
     <a href="https://amansinha110.github.io/Frontend-LIve-Projects-Website/"><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/github.webp"height="160" width="160"></a>
     <a href="https://amansinha110.github.io/Achievements-Gallery/"><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/certificate1.webp"height="160" width="160"></a>
+    <a href="https://satyamsinhaa779.wixsite.com/my-site"><img src ="https://github.com/Amansinha110/Amansinha110/blob/master/canva333.webp"height="160" width="160"></a>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansinha110&show_icons=true&locale=en&layout=compact" alt="amansinha110" /></p>
