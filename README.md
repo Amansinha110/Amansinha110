@@ -87,7 +87,8 @@ const AMAN = {
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/figma.webp" alt="Figma" width="70" height="70"></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/photo.png" alt="Photoshop" width="70" height="70"></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/illustrator.png" alt="illustrator" width="70" height="70"></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/canva.webp" alt="Canva" width="70" height="70"></a></p> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/canva.webp" alt="Canva" width="70" height="70"></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Amansinha110/Amansinha110/blob/master/python11.webp" alt="Python" width="70" height="70"></a></p> 
 </div>
 
 <div></div>
